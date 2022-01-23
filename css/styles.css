@@ -10,4 +10,8 @@ body{
 }
 .package-col-third{
     background-color: aqua;
+    transform: scaleY(1.2);
+    border-radius: 30px;
+    padding: 25px;
+    
 }
