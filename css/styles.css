@@ -9,9 +9,16 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 .package-col-third{
-    background-color: aqua;
+    background-color: bisque;
     transform: scaleY(1.2);
     border-radius: 30px;
     padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
     
+}
+.text-title-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.text-color-gold{
+    color: goldenrod;
 }
